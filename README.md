@@ -3,7 +3,7 @@
 This is project of a Volume Calculator about same.
 
 ## Notes :books:
-- C program to train skills.
+- C programming to train skills.
 - Learn more about C variables, printf, scanf and argument options.
 
 ## Image :camera:
