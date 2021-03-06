@@ -12,4 +12,4 @@ This is project of a Volume Calculator about same.
 ![foto volume calculator 2](https://user-images.githubusercontent.com/52220244/110216472-2cfa7780-7e8e-11eb-854a-f8470af0d1da.PNG)
 
 ## Features :hammer_and_Wrench:
-- C
+- C language
