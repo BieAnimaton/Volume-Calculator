@@ -21,5 +21,5 @@ git clone https://github.com/BieAnimaton/Volume-Calculator
 # The project will open
 ```
 
-## Features :hammer_and_Wrench:
+## Features :hammer_and_wrench:
 - C language
