@@ -11,5 +11,15 @@ This is project of a Volume Calculator about same.
 
 ![foto volume calculator 2](https://user-images.githubusercontent.com/52220244/110216472-2cfa7780-7e8e-11eb-854a-f8470af0d1da.PNG)
 
+## How Install :bookmark_tabs:
+```
+# Clone the project
+git clone https://github.com/BieAnimaton/Volume-Calculator
+
+# Run the .exe on bin/Debug/volumes.exe
+
+# The project will open
+```
+
 ## Features :hammer_and_Wrench:
 - C language
