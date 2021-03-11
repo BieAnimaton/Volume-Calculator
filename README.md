@@ -1,6 +1,6 @@
 # Volume Calculator
 
-This is project of a Volume Calculator about same.
+This is project of a Volume Calculator.
 
 ## Notes :books:
 - C programming to train skills.
